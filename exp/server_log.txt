@@ -1,0 +1,5 @@
+SERVER: starting
+SERVER: socket opened
+SERVER: pipes opened
+SERVER: hoist spawned
+HOIST: starting
